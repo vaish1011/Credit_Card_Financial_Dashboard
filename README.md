@@ -28,7 +28,7 @@ Key Business Insights
 - High-income and graduate customers show stronger spending patterns
 - Bills and entertainment are the top expenditure categories
 
-Vaishnavi Nikalje 
+Vaishnavi Nikalje |
 MSc Data Science  
 Email: vaishn1011@gmail.com  
 LinkedIn: [Vaishnavi Nikalje](https://www.linkedin.com/in/vaishnavi-nikalje2002)
